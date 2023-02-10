@@ -1,0 +1,36 @@
+[
+    {
+        "navn": "Norge",
+        "hovedstad": "Oslo",
+        "befolkning": 5425270,
+        "naboland": ["Sverige", "Finland", "Russland"]
+    },
+
+    {
+        "navn": "Sverige",
+        "hovedstad": "Stockholm",
+        "befolkning": 10409248,
+        "naboland": ["Norge", "Finland"]
+    },
+
+    {
+        "navn": "Danmark",
+        "hovedstad": "København",
+        "befolkning": 5827463,
+        "naboland": ["Tyskland"]
+    },
+
+    {
+        "navn": "Finland",
+        "hovedstad": "Helsinki",
+        "befolkning": 5516224,
+        "naboland": ["Norge", "Sverige", "Russland"]
+    },
+
+    {
+        "navn": "Island",
+        "hovedstad": "Reykjavik",
+        "befolkning": 338349,
+        "naboland": []
+    }
+]
